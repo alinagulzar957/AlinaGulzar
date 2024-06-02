@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Alina Gulzar</h1>
-<h3 align="center">I am pursuing my Computer Engineering degree at the University of Engineering and Technology, Taxila, Pakistan</h3>
+<h3 align="center">Pursuing my Computer Engineering degree from <br>University of Engineering and Technology, Taxila, Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
