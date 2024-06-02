@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://assets-global.website-files.com/627cdcca8bc0d22df9b2672f/65b734753eccd980cb0c0394_146DNdIemKCMeSfFpQgOGz3WmwWLLqmlXUIDoKk6HY4.webp" alt="Header Image" width="800" height="200"/>
+  <img src="https://assets-global.website-files.com/627cdcca8bc0d22df9b2672f/65b734753eccd980cb0c0394_146DNdIemKCMeSfFpQgOGz3WmwWLLqmlXUIDoKk6HY4.webp" alt="Header Image" width="1000" height="260"/>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Alina Gulzar</h1>
